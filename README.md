@@ -1,7 +1,8 @@
 <p align="center">
-  <img width="990" height="180" src="https://github.com/user-attachments/assets/3a145fad-f73e-4647-8fa6-29eaf4ab99af"
+  <img width="590" height="130" src="https://github.com/user-attachments/assets/d9d31983-02e2-4d23-a8ec-d494e5fe91e7"
        </p>
   
+
 
 # Car_price_analysis_bmg
 ## Analysis Objective: Develop strategies for validating pricing policies and residual value estimates, aligning them with revenue and margin expectations of automotive brands in the used car market.
