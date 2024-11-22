@@ -17,4 +17,4 @@ This approach aims to strengthen the competitive position of a used car dealersh
 
 ***"Note: The values presented here were obtained from the website https://www.subito.it/annunci-italia/vendita/auto/bmw/?ys=2019&ye=2024 on 20 November 2024."***
 
-Elabroando nova aboradagem
+This project use python version 3.12.1
