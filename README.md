@@ -16,6 +16,6 @@ Create customised reports and interactive dashboards to present relevant market 
 
 This approach aims to strengthen the competitive position of a used car dealership in the market by promoting data-driven decisions and consistent insights.
 
-***"Note: The values presented here were obtained from the website https://www.subito.it/annunci-italia/vendita/auto/bmw/?ys=2019&ye=2024 on 20 November 2024."***
+***"Note: The values presented here were obtained from the website [Autoscout](https://www.autoscout24.com/) on 22 November 2024."***
 
 This project use python version 3.12.1
