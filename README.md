@@ -43,6 +43,11 @@ Python:
 	<img width="100" height="30"  src="https://github.com/user-attachments/assets/ef05e827-5b73-491a-9771-bd36f3b0bea5"
 	     </p>
 
+<p align="left">
+	<img width="100" height="30"  src="https://github.com/user-attachments/assets/c0adf99c-8069-4d6f-a91e-571894e1c73c"
+	     </p>
+
+ 
 Data WebsCraping:
 Requests:
 <p align="left">
