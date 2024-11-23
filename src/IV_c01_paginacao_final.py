@@ -4,7 +4,6 @@ import pandas        as pd
 
 from bs4             import BeautifulSoup
 
-
 list_auto = []
 
 #Link do acesso
@@ -81,7 +80,9 @@ for link in links_gerados:
 
 rows = df.shape[0]
 print(rows)
-df.to_excel('../dataset/list_auto_paginacao.xlsx')
+df.to_csv('../dataset/list_auto_paginacao.csv')
 
+df_gross = pd.read_csv('../dataset/list_auto_paginacao.csv')
 
+df_gross.to_excel('../dataset/list_auto_pag.xlsx', index=None, header=True)
 
