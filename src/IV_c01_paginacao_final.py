@@ -81,7 +81,7 @@ for link in links_gerados:
 
 rows = df.shape[0]
 print(rows)
-df.to_csv('../dataset/list_auto_paginacao.csv', encoding='utf-8', sep=';')
+df.to_excel('../dataset/list_auto_paginacao.xlsx')
 
 
 
