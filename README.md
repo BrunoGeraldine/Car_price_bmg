@@ -16,17 +16,21 @@ Questo approccio mira a rafforzare la posizione competitiva di un concessionario
 
 ### Anteprima della dashboard per la visualizzazione finale dell'analisi effettuata.
 <p align="center">
-  <img width="1000" height="400" src="https://github.com/user-attachments/assets/455babf6-c872-486c-ba06-d41390f6be0c"
-       </p>
-
-<p align="center">
-  <img width="1000" height="400" src="https://github.com/user-attachments/assets/b76c1a4d-5067-4b37-bddf-2aed86ce40af"
+  <img width="1000" height="400" src="https://github.com/user-attachments/assets/31cc8168-0faf-46d0-befc-6cef93d94442"
        </p>
 
 
 <p align="center">
-  <img width="1000" height="400" src="https://github.com/user-attachments/assets/1c18a9bb-e426-4af9-8d17-0d0173c7d20a"
+  <img width="1000" height="400" src="https://github.com/user-attachments/assets/cc6ac5d2-90c3-4d7f-b57d-5c94820c05c0"
+       </p>
+
+
+
+<p align="center">
+  <img width="1000" height="400" src="https://github.com/user-attachments/assets/fa5f3486-9f81-41df-9d4e-a4f92a3e55db"
        </p>      
+
+
 
   
 ***"Note: The values presented here were obtained from the website [Autoscout](https://www.autoscout24.com/) on November 2024."***
