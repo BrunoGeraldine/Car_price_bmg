@@ -16,17 +16,16 @@ Questo approccio mira a rafforzare la posizione competitiva di un concessionario
 
 ### Anteprima della dashboard per la visualizzazione finale dell'analisi effettuata.
 <p align="center">
-  <img width="1000" height="400" src="https://github.com/user-attachments/assets/b397fc71-0168-463d-8d56-886e7923e512"
+  <img width="1000" height="400" src="https://github.com/user-attachments/assets/455babf6-c872-486c-ba06-d41390f6be0c"
+       </p>
+
+<p align="center">
+  <img width="1000" height="400" src="https://github.com/user-attachments/assets/b76c1a4d-5067-4b37-bddf-2aed86ce40af"
        </p>
 
 
 <p align="center">
-  <img width="1000" height="400" src="https://github.com/user-attachments/assets/028dd55f-3719-4f2d-a4bc-a99cee8ff382"
-       </p>
-
-
-<p align="center">
-  <img width="1000" height="400" src="https://github.com/user-attachments/assets/02a23bb3-4e0c-4d75-b4ad-94856baf7eeb"
+  <img width="1000" height="400" src="https://github.com/user-attachments/assets/1c18a9bb-e426-4af9-8d17-0d0173c7d20a"
        </p>      
 
   
