@@ -12,7 +12,6 @@ indagare sulle tendenze dei prezzi e identificare le opportunità per massimizza
 2. Report e dashboard:
 Crea report personalizzati e dashboard interattive per presentare informazioni di mercato rilevanti e guidare le decisioni strategiche.
 
-Questo progetto, utilizza un approccio analitico per esaminare i prezzi dei veicoli basandosi su variabili come modello, versione e anno. La motivazione principale è consentire decisioni informate sull'acquisto di un veicolo, tenendo in considerazione aspetti come rivalutazione o svalutazione futura. Dopo un'analisi descrittiva iniziale, l'obiettivo è espandersi verso analisi predittive e prescrittive.
 
 ### Fasi del Progetto:
 1. **Raccolta Dati**: Utilizzo di web scraping con le librerie Python `Requests` e `BeautifulSoup` per estrarre informazioni da siti specializzati in veicoli usati.
