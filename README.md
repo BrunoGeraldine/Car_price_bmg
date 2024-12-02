@@ -38,7 +38,6 @@ Questo approccio mira a rafforzare la posizione competitiva di un concessionario
 This project use python version 3.12.1
 
 #### Tecnologie utilizzate:
-Applied technologies:
 
 Main language:
 Python:
