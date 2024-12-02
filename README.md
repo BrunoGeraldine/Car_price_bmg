@@ -12,7 +12,16 @@ indagare sulle tendenze dei prezzi e identificare le opportunità per massimizza
 2. Report e dashboard:
 Crea report personalizzati e dashboard interattive per presentare informazioni di mercato rilevanti e guidare le decisioni strategiche.
 
-Questo approccio mira a rafforzare la posizione competitiva di un concessionario di auto usate sul mercato, promuovendo decisioni basate sui dati e approfondimenti coerenti.
+Questo progetto, utilizza un approccio analitico per esaminare i prezzi dei veicoli basandosi su variabili come modello, versione e anno. La motivazione principale è consentire decisioni informate sull'acquisto di un veicolo, tenendo in considerazione aspetti come rivalutazione o svalutazione futura. Dopo un'analisi descrittiva iniziale, l'obiettivo è espandersi verso analisi predittive e prescrittive.
+
+### Fasi del Progetto:
+1. **Raccolta Dati**: Utilizzo di web scraping con le librerie Python `Requests` e `BeautifulSoup` per estrarre informazioni da siti specializzati in veicoli usati.
+2. **Pulizia e Elaborazione Dati**: Uso di `Pandas` ed espressioni regolari (Regex) per strutturare e organizzare i dati raccolti.
+3. **Analisi Descrittiva**: Identificazione di pattern e variazioni nei prezzi dei veicoli, basandosi su criteri come versione e anno.
+4. **Visualizzazione Dati**: Sviluppo di dashboard interattivi con Power BI per comunicare gli insight ottenuti e guidare le decisioni.
+5. **Prospettive Future**: Applicazione di modelli di machine learning per prevedere le tendenze dei prezzi e supportare decisioni strategiche nel mercato delle auto usate.
+
+Il progetto sottolinea l'uso di Python 3.12.1 e l'applicazione pratica dell'analisi dei dati per risolvere problemi reali, come supporto per scelte più strategiche nell'acquisto di veicoli usati.
 
 ### Anteprima della dashboard per la visualizzazione finale dell'analisi effettuata.
 <p align="center">
